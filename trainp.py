@@ -30,12 +30,6 @@ RMSE:
 Esecution Time:
 around 600 seconds
 """
-# Competition project
-# Po-Han Chen USCID: 3988044558
-# Mar 03 2021
-
-
-
 
 import json
 import sys
